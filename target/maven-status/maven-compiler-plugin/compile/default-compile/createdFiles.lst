@@ -1,0 +1,15 @@
+com\myecommerce\constant\ApplicationConstant.class
+com\myecommerce\exception\BusinessException.class
+com\myecommerce\repository\ProductRepository.class
+com\myecommerce\service\impl\ProductServiceImpl.class
+com\myecommerce\serializer\DataSerializer.class
+com\myecommerce\repository\impl\ProductRepositoryImpl.class
+com\myecommerce\converter\ProductConverter.class
+com\myecommerce\dto\ProductDTO.class
+com\myecommerce\client\ProductMain.class
+com\myecommerce\service\impl\Dummy.class
+com\myecommerce\dto\CategoryDTO.class
+com\myecommerce\entity\CategoryEntity.class
+com\myecommerce\entity\ProductEntity.class
+com\myecommerce\service\ProductService.class
+com\myecommerce\configuration\DBConfiguration.class
